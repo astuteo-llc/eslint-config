@@ -1,6 +1,6 @@
 {
   "name": "@astuteo/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Config helper",
   "repository": {
     "type": "git",
