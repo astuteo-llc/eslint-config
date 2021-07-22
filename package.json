@@ -1,0 +1,11 @@
+{
+  "name": "@astuteo/eslint-config",
+  "version": "1.0.0",
+  "description": "Config helper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astuteo-llc/eslint-config.git"
+  },
+  "author": "Astuteo",
+  "license": "MIT"
+}
