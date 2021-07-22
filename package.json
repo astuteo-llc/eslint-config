@@ -1,11 +1,14 @@
 {
   "name": "@astuteo/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Config helper",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/astuteo-llc/eslint-config.git"
   },
   "author": "Astuteo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^10.1.0"
+  }
 }
