@@ -9,6 +9,6 @@
   "author": "Astuteo",
   "license": "MIT",
   "dependencies": {
-    "babel-eslint": "^10.1.0"
+    "@babel/eslint-parser": "^7.15.8"
   }
 }
