@@ -12,9 +12,9 @@ module.exports = {
     './rules/es6',
     './rules/strict',
   ].map(require.resolve),
-  parser: "babel-eslint",
+  parser: "@babel/eslint-parser",
   parserOptions: {
-    ecmaVersion: 2018,
+    ecmaVersion: 13,
     sourceType: 'module',
   },
   rules: {},
